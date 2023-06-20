@@ -1,0 +1,117 @@
+.container {  
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.titulo-1 {
+   color: #00008b;
+   font-size: 60px;
+}
+
+.imagen-1{
+
+  margin: 10px 0px 10px 45px;
+
+}
+
+.personaje-1 {
+   border: 100px black;
+   padding: 10px;
+   margin: 10px 0px 10px 250px;
+   color: rgb(99, 3, 16);
+   font-size: 30px;
+}
+    
+.personaje-2 {
+   border: 100px black;
+   padding: 10px;
+   margin: 10px 0px 10px 250px;
+   color: rgb(255, 241, 222);
+   font-size: 30px;
+ 
+}
+
+.personaje-3 {
+   border: 100px black;
+   padding: 10px;
+   margin: 10px 0px 10px 250px;
+   color: rgb(14, 63, 17);
+   font-size: 30px;
+
+}
+    
+.personaje-4 {
+   border: 100px black;
+   padding: 10px;
+   margin: 10px 0px 10px 250px;
+   color: rgb(51, 50, 49);
+   font-size: 30px;
+
+}
+
+.personaje-5 {
+  border: 100px black;
+  padding: 10px;
+  margin: 10px 0px 10px 250px;
+  color: rgb(179, 179, 179);
+  font-size: 30px;
+
+}
+
+body {
+    background-color: rgb(175, 120, 226);
+
+
+}
+
+
+#califica_esta_pagina_web{ 
+
+ border-radius: 15px;
+ margin-left:   -3px;
+ margin-top:    20px;
+ margin-bottom: 20px;
+ 
+
+}  
+
+#email{
+
+ border-radius: 15px;
+ margin-left:  111px;
+ margin-top:    20px;
+ margin-bottom: 20px;
+
+}
+
+#mensaje{
+
+  border-radius:15px;
+  margin-left:  98px;
+  margin-top:   20px;
+  margin-bottom:20px;
+
+
+}
+
+#pais{
+
+  border-radius: 15px;
+  margin: 10px 10px 10px 10px;
+ 
+ 
+}
+
+#button{
+
+  border-radius: 15px;
+  border: -900px;
+  margin: 10px 10px 10px 210px;
+  
+ 
+}
+
+
+
+/*este es el codigo para añadir un comentario en css*/
